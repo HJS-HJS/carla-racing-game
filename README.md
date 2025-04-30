@@ -1,4 +1,4 @@
-# ICT Human Resource Development Fair - CARLA Simulator Demo Booth
+# CARLA Simulator Racing Demo Booth
 
 This project is a CARLA-based driving simulation experience designed for a public demonstration booth. One vehicle is controlled by a human driver using the Logitech G29 steering wheel, while the other is autonomously driven using our custom algorithm.
 
