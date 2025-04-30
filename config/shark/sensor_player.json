@@ -1,0 +1,25 @@
+{
+  "camera": {
+    "type": "sensor.camera.rgb",
+    "transform": {
+      "location": {"x": -5.5, "y": 0.0, "z": 2.8},
+      "rotation": {"pitch": -10.0, "yaw": 0.0, "roll": 0.0}
+    },
+    "attributes": {
+      "image_size_x": "3840",
+      "image_size_y": "1080",
+      "fov": "120.0"
+    }
+  },
+  "gps": {
+    "type": "sensor.other.gnss",
+    "transform": {
+      "location": {"x": -0.525, "y": 0.0, "z": 2.0},
+      "rotation": {"pitch": 0.0, "yaw": 0.0, "roll": 0.0}
+    },
+    "attributes": {
+      "role_name": "gnss_player",
+      "sensor_tick": "0.05"
+    }
+  }
+}

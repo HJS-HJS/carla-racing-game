@@ -1,0 +1,14 @@
+{
+    "npc1": {
+        "speed": 10,
+        "point": 5
+    },
+    "npc3": {
+        "speed": 10,
+        "point": 10
+    },
+    "npc4": {
+        "speed": 5,
+        "point": 2
+    }
+}
