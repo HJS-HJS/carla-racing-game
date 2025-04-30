@@ -36,10 +36,14 @@ This project is a CARLA-based driving simulation experience designed for a publi
 
 ## How to Run
 # 1. Launch your CARLA simulator
+```bash
 ./CarlaUE4.sh -RenderOffScreen
+```
 
 # 2. Run the main simulation script
+```bash
 python3 main.py
+```
 
 ## Notes
 - The autonomous vehicle logic is pre-implemented and does not require modification.
